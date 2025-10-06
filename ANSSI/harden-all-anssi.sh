@@ -6,7 +6,7 @@
 
 # Ce script exécute toutes les étapes de durcissement dans l'ordre :
 # 1. Catégorie M (Minimal)
-# 2. Catégorie I (Intermediaire / Intrusion)
+# 2. Catégorie I (Intermediaire)
 
 # Chemins relatifs aux répertoires de scripts
 M_DIR="./M"
